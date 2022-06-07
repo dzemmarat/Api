@@ -824,10 +824,6 @@
           "format" : "int32",
           "default" : 200
         },
-        "message" : {
-          "type" : "string",
-          "default" : ""
-        },
         "data" : {
           "type" : "object",
           "properties" : { }
