@@ -819,11 +819,6 @@
     "ResponseWrapper" : {
       "type" : "object",
       "properties" : {
-        "code" : {
-          "type" : "integer",
-          "format" : "int32",
-          "default" : 200
-        },
         "data" : {
           "type" : "object",
           "properties" : { }
